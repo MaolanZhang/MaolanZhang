@@ -1,4 +1,7 @@
-## Hi there 👋
+## research areas
+- 🌱 image encryption
+- ⚡ model quantization
+- 🔭 trustworthy AI
 
 <!--
 **ettata/ettata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
