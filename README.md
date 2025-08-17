@@ -1,6 +1,6 @@
 ## research areas
 - 🌱 image encryption
-- ⚡ model quantization
+- ⚡ model compression
 - 🔭 trustworthy AI
 
 <!--
